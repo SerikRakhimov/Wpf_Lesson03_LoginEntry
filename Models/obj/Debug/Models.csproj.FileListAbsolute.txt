@@ -1,0 +1,11 @@
+C:\Users\РахимовС\source\repos\ElementsLessons\Models\bin\Debug\Models.dll
+C:\Users\РахимовС\source\repos\ElementsLessons\Models\bin\Debug\Models.pdb
+C:\Users\РахимовС\source\repos\ElementsLessons\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\РахимовС\source\repos\ElementsLessons\Models\obj\Debug\Models.dll
+C:\Users\РахимовС\source\repos\ElementsLessons\Models\obj\Debug\Models.pdb
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\LoginEntry\Models\bin\Debug\Models.dll
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\LoginEntry\Models\bin\Debug\Models.pdb
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\LoginEntry\Models\obj\Debug\Models.csprojAssemblyReference.cache
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\LoginEntry\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\LoginEntry\Models\obj\Debug\Models.dll
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\LoginEntry\Models\obj\Debug\Models.pdb

@@ -1,0 +1,94 @@
+C:\Users\РахимовС\source\repos\LoginEntry\ElementsLessons\bin\Debug\ElementsLessons.exe.config
+C:\Users\РахимовС\source\repos\LoginEntry\ElementsLessons\bin\Debug\ElementsLessons.exe
+C:\Users\РахимовС\source\repos\LoginEntry\ElementsLessons\bin\Debug\ElementsLessons.pdb
+C:\Users\РахимовС\source\repos\LoginEntry\ElementsLessons\bin\Debug\DataAccess.dll
+C:\Users\РахимовС\source\repos\LoginEntry\ElementsLessons\bin\Debug\EntityFramework.dll
+C:\Users\РахимовС\source\repos\LoginEntry\ElementsLessons\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\РахимовС\source\repos\LoginEntry\ElementsLessons\bin\Debug\Models.dll
+C:\Users\РахимовС\source\repos\LoginEntry\ElementsLessons\bin\Debug\Services.dll
+C:\Users\РахимовС\source\repos\LoginEntry\ElementsLessons\bin\Debug\DevOne.Security.Cryptography.BCrypt.dll
+C:\Users\РахимовС\source\repos\LoginEntry\ElementsLessons\bin\Debug\DataAccess.pdb
+C:\Users\РахимовС\source\repos\LoginEntry\ElementsLessons\bin\Debug\DataAccess.dll.config
+C:\Users\РахимовС\source\repos\LoginEntry\ElementsLessons\bin\Debug\Models.pdb
+C:\Users\РахимовС\source\repos\LoginEntry\ElementsLessons\bin\Debug\Services.pdb
+C:\Users\РахимовС\source\repos\LoginEntry\ElementsLessons\bin\Debug\EntityFramework.xml
+C:\Users\РахимовС\source\repos\LoginEntry\ElementsLessons\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\РахимовС\source\repos\LoginEntry\ElementsLessons\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\РахимовС\source\repos\LoginEntry\ElementsLessons\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\РахимовС\source\repos\LoginEntry\ElementsLessons\obj\Debug\LoginEntry.csprojAssemblyReference.cache
+C:\Users\РахимовС\source\repos\LoginEntry\ElementsLessons\obj\Debug\MainWindow.g.cs
+C:\Users\РахимовС\source\repos\LoginEntry\ElementsLessons\obj\Debug\App.g.cs
+C:\Users\РахимовС\source\repos\LoginEntry\ElementsLessons\obj\Debug\ElementsLessons_MarkupCompile.cache
+C:\Users\РахимовС\source\repos\LoginEntry\ElementsLessons\obj\Debug\ElementsLessons_MarkupCompile.lref
+C:\Users\РахимовС\source\repos\LoginEntry\ElementsLessons\obj\Debug\MainWindow.baml
+C:\Users\РахимовС\source\repos\LoginEntry\ElementsLessons\obj\Debug\ElementsLessons.g.resources
+C:\Users\РахимовС\source\repos\LoginEntry\ElementsLessons\obj\Debug\ElementsLessons.Properties.Resources.resources
+C:\Users\РахимовС\source\repos\LoginEntry\ElementsLessons\obj\Debug\LoginEntry.csproj.GenerateResource.cache
+C:\Users\РахимовС\source\repos\LoginEntry\ElementsLessons\obj\Debug\LoginEntry.csproj.CoreCompileInputs.cache
+C:\Users\РахимовС\source\repos\LoginEntry\ElementsLessons\obj\Debug\LoginEntry.csproj.CopyComplete
+C:\Users\РахимовС\source\repos\LoginEntry\ElementsLessons\obj\Debug\ElementsLessons.exe
+C:\Users\РахимовС\source\repos\LoginEntry\ElementsLessons\obj\Debug\ElementsLessons.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Wpf\LoginEntry\ElementsLessons\bin\Debug\ElementsLessons.exe.config
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Wpf\LoginEntry\ElementsLessons\bin\Debug\ElementsLessons.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Wpf\LoginEntry\ElementsLessons\bin\Debug\ElementsLessons.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Wpf\LoginEntry\ElementsLessons\bin\Debug\DataAccess.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Wpf\LoginEntry\ElementsLessons\bin\Debug\EntityFramework.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Wpf\LoginEntry\ElementsLessons\bin\Debug\EntityFramework.SqlServer.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Wpf\LoginEntry\ElementsLessons\bin\Debug\Models.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Wpf\LoginEntry\ElementsLessons\bin\Debug\Services.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Wpf\LoginEntry\ElementsLessons\bin\Debug\DevOne.Security.Cryptography.BCrypt.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Wpf\LoginEntry\ElementsLessons\bin\Debug\DataAccess.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Wpf\LoginEntry\ElementsLessons\bin\Debug\DataAccess.dll.config
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Wpf\LoginEntry\ElementsLessons\bin\Debug\Models.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Wpf\LoginEntry\ElementsLessons\bin\Debug\Services.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Wpf\LoginEntry\ElementsLessons\bin\Debug\EntityFramework.xml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Wpf\LoginEntry\ElementsLessons\bin\Debug\EntityFramework.SqlServer.xml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Wpf\LoginEntry\ElementsLessons\bin\Debug\ru\EntityFramework.resources.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Wpf\LoginEntry\ElementsLessons\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Wpf\LoginEntry\ElementsLessons\obj\Debug\LoginEntry.csprojResolveAssemblyReference.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Wpf\LoginEntry\ElementsLessons\obj\Debug\MainWindow.g.cs
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Wpf\LoginEntry\ElementsLessons\obj\Debug\App.g.cs
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Wpf\LoginEntry\ElementsLessons\obj\Debug\ElementsLessons_MarkupCompile.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Wpf\LoginEntry\ElementsLessons\obj\Debug\MainWindow.baml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Wpf\LoginEntry\ElementsLessons\obj\Debug\ElementsLessons.g.resources
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Wpf\LoginEntry\ElementsLessons\obj\Debug\ElementsLessons.Properties.Resources.resources
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Wpf\LoginEntry\ElementsLessons\obj\Debug\LoginEntry.csproj.GenerateResource.Cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Wpf\LoginEntry\ElementsLessons\obj\Debug\LoginEntry.csproj.CoreCompileInputs.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Wpf\LoginEntry\ElementsLessons\obj\Debug\ElementsLessons.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Wpf\LoginEntry\ElementsLessons\obj\Debug\ElementsLessons.pdb
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\LoginEntry\ElementsLessons\bin\Debug\ElementsLessons.exe.config
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\LoginEntry\ElementsLessons\bin\Debug\ElementsLessons.exe
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\LoginEntry\ElementsLessons\bin\Debug\ElementsLessons.pdb
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\LoginEntry\ElementsLessons\bin\Debug\DataAccess.dll
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\LoginEntry\ElementsLessons\bin\Debug\EntityFramework.dll
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\LoginEntry\ElementsLessons\bin\Debug\EntityFramework.SqlServer.dll
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\LoginEntry\ElementsLessons\bin\Debug\Models.dll
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\LoginEntry\ElementsLessons\bin\Debug\Services.dll
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\LoginEntry\ElementsLessons\bin\Debug\DevOne.Security.Cryptography.BCrypt.dll
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\LoginEntry\ElementsLessons\bin\Debug\DataAccess.pdb
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\LoginEntry\ElementsLessons\bin\Debug\DataAccess.dll.config
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\LoginEntry\ElementsLessons\bin\Debug\Models.pdb
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\LoginEntry\ElementsLessons\bin\Debug\Services.pdb
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\LoginEntry\ElementsLessons\bin\Debug\EntityFramework.xml
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\LoginEntry\ElementsLessons\bin\Debug\EntityFramework.SqlServer.xml
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\LoginEntry\ElementsLessons\bin\Debug\ru\EntityFramework.resources.dll
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\LoginEntry\ElementsLessons\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\LoginEntry\ElementsLessons\obj\Debug\LoginEntry.csprojAssemblyReference.cache
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\LoginEntry\ElementsLessons\obj\Debug\MainWindow.baml
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\LoginEntry\ElementsLessons\obj\Debug\MainWindow.g.cs
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\LoginEntry\ElementsLessons\obj\Debug\App.g.cs
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\LoginEntry\ElementsLessons\obj\Debug\ElementsLessons_MarkupCompile.cache
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\LoginEntry\ElementsLessons\obj\Debug\ElementsLessons.g.resources
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\LoginEntry\ElementsLessons\obj\Debug\ElementsLessons.Properties.Resources.resources
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\LoginEntry\ElementsLessons\obj\Debug\LoginEntry.csproj.GenerateResource.cache
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\LoginEntry\ElementsLessons\obj\Debug\LoginEntry.csproj.CoreCompileInputs.cache
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\LoginEntry\ElementsLessons\obj\Debug\LoginEntry.csproj.CopyComplete
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\LoginEntry\ElementsLessons\obj\Debug\ElementsLessons.exe
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\LoginEntry\ElementsLessons\obj\Debug\ElementsLessons.pdb
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\LoginEntry\ElementsLessons\bin\Debug\MaterialDesignColors.dll
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\LoginEntry\ElementsLessons\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\LoginEntry\ElementsLessons\bin\Debug\MaterialDesignColors.pdb
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\LoginEntry\ElementsLessons\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\LoginEntry\ElementsLessons\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\LoginEntry\ElementsLessons\obj\Debug\ElementsLessons_MarkupCompile.lref
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\WPF\LoginEntry\ElementsLessons\obj\Debug\App.baml
